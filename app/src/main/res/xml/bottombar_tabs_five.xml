@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_recents"
+        icon="@drawable/location"
+        title="Location" />
+    <tab
+        id="@+id/tab_favorites"
+        icon="@drawable/menu"
+        title="News" />
+    <tab
+        id="@+id/tab_nearby"
+        icon="@drawable/map"
+        title="Map" />
+    <tab
+        id="@+id/tab_food"
+        icon="@drawable/dv"
+        title="Service" />
+    <tab
+        id="@+id/tab_friends"
+        icon="@drawable/user"
+        title="Personal" />
+
+</tabs>
